@@ -1,0 +1,17 @@
+//= require /theme/bootstrap.min.js
+//= require /theme/c3.min.js
+//= require /theme/chartist.min.js
+//= require /theme/chartist-plugin-tooltip.min.js
+//= require /theme/custom.min.js
+//= require /theme/d3.min.js
+//= require /theme/dashboard1.js
+//= require /theme/jquery.min.js
+//= require /theme/jquery.slimscroll.js
+//= require /theme/jquery.sparkline.min.js
+//= require /theme/jQuery.style.switcher.js
+//= require /theme/jquery-2.2.0.min.js
+//= require /theme/popper.min.js
+//= require /theme/sidebarmenu.js
+//= require /theme/sticky-kit.min.js
+//= require /theme/waves.js
+//= require /theme/waves.js

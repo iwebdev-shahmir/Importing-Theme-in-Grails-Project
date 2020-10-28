@@ -2,5 +2,7 @@ package themeimplementation
 
 class AdminDashboardController {
 
-    def index() { }
+    def index() { 
+    println "i am here"
+    }
 }

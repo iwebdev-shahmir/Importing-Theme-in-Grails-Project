@@ -8,7 +8,7 @@
     <body>
         <g:if env="development">
             <g:if test="${Throwable.isInstance(exception)}">
-                <g:renderException exception="${exception}" />
+                <g:renderException exception="${exception}"/>
             </g:if>
             <g:elseif test="${request.getAttribute('javax.servlet.error.exception')}">
                 <g:renderException exception="${request.getAttribute('javax.servlet.error.exception')}" />
